@@ -21,8 +21,4 @@ for i in 0..2 do
 	lines.push line
 	line = ""
 end
-
-
-
-
 lines.each {|line| puts line }
